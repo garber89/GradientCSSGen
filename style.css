@@ -19,7 +19,7 @@ h1 {
 
 @media screen and (max-width: 650px){
     h1{
-        font: 600 3em ' Raleway', sans-serif;
+        font: 600 2.7em ' Raleway', sans-serif;
         letter-spacing: .2em;
     }
 }
